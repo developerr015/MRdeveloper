@@ -1,0 +1,233 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Run RedBox-Tv: Streaming tips on PC with LDPlayer ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFa07XBzF3Pmj-JNegwjYeEb-ql11Sm6TNmg&usqp=CAU",
+      "description": "RedBox TV is a special mobile application for high-quality viewing of online television ",
+      "link": "file:///android_asset/guide/guide1a.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "RedBox TV Not Working | Reason and Solutions",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgbwe6LO2thZIRkcK53fRt_vadWc2cNweYA&usqp=CAU",
+      "description": "we will see about Red Box TV App and try to find out why it is not working",
+      "link": "file:///android_asset/guide/guide2a.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "HOW TO INSTALL REDBOX TV APK ON ANDROID TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaj2VGDeJSJzDkObjHuhzhTDZF6epsi430jw&usqp=CAU",
+      "description": "more than 1000 different channels for viewing by users, and most importantly, live from 15 different countries of the world ",
+      "link": "file:///android_asset/guide/guide3a.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "RedBox Tv: Free MOVIES Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTciUPROqsoiTBA3njRtjpPcahuxUSO58Lg&usqp=CAU",
+      "description": "this app will help you to configure your RedBox TV : Movies and know more about this app",
+      "link": "file:///android_asset/guide/guide4a.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Get the latest version of RedBox TV for android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu340l4ygQfHqbY9waH8uzXHKfZq__j--1Sw&usqp=CAU",
+      "description": "Follow these instructions to install the app in minutes",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "RedBox Tv Free All Channels Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8WKhpHTZoLYtP6x6QThDEu0Q9nPIE_z7pg&usqp=CAU",
+      "description": "You need help with RedBox TV Free Channels application?",
+      "link": "file:///android_asset/guide/guide6a.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Redbox Live TV Review 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzXnb_mRFsv4W8HFRlpgQ96pxQymbyEGnnQ&usqp=CAU",
+      "description": "Redbox is more than just a DVD rental kiosk outside your local drugstore.",
+      "link": "file:///android_asset/guide/guide7a.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Content Available To Stream on Redbox",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLM738DanTWcYe01T9oJWKMtFfrPPoj_3TXA&usqp=CAU",
+      "description": "Here’s a look at some of the content you can expect to see on the app",
+      "link": "file:///android_asset/guide/guide8a.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Redbox does a pretty nice job of presenting",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkd79srjYXIyI7HdlUHlPDjbfTr5eTY02I5g&usqp=CAU",
+      "description": "an easy-to-use platform with ads that are surprisingly tolerable",
+      "link": "file:///android_asset/guide/guide9a.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Redbox TV For Android: A Complete Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6CVWEmpLtKZLcGkKxw-ht9W1vw4lf8vvIQ&usqp=CAU",
+      "description": "If you are looking for a way to watch live TV channels on your Android device without paying for a cable or satellite subscription",
+      "link": "file:///android_asset/guide/guide10a.html" 
+    },
+	{
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "RedBox Tv: MOVIES tips for Windows PC 7/8/10, Mac Laptop / Desktop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2S2xe6dTFi-EmVqqZv2QmwDfKIOtR7PM4iA&usqp=CAU",
+      "description": "Are you looking for All RedBox Tv: MOVIES tips for Windows 7/8/10 download instructions? ",
+      "link": "file:///android_asset/guide/guide11a.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "following unique features RedBox Tv is the best App in the market",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUNxsm48guxgFqrbR7iY5MRQ2fxe6hghxGA&usqp=CAU",
+      "description": "Let's find out the prerequisites to install RedBox Tv on Windows PC or MAC computer without much delay.",
+      "link": "file:///android_asset/guide/guide12a.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "How to Watch Redbox Free Live TV Streaming Service",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATddEFs_mStyHDXvy8Ds9A9D69ZM4jDwpAw&usqp=CAU",
+      "description": "In this tutorial, I will show you how to access and watch the Redbox Free Live TV service on any device",
+      "link": "file:///android_asset/guide/guide13a.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "How to install Redbox TV APK on FireStick/ Fire TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJja8rOJa7wNA7Q4segFW9Xhazog3-NBcvGg&usqp=CAU",
+      "description": "In this tutorial, I am going to show you how to install Redbox TV APK on FireStick",
+      "link": "file:///android_asset/guide/guide14a.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "Redbox’s live streaming TV service now has 60 channels",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUYF-19-HvZ-PJDxYGGH5r5ajI5wUxKHgbQ&usqp=CAU",
+      "description": "Through its Redbox Entertainment division, the company is also developing a slate of movies that will be available through Redbox",
+      "link": "file:///android_asset/guide/guide15a.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Tutorial",
+      "title": "RedBox Tv: All Channels Mobile",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTWcE29C7BIygJ28dO3B2KVjDjAI8B_2pwsw&usqp=CAU",
+      "description": "RedBox Tv: All Channels Mobile Tips is a free Entertainment app",
+      "link": "file:///android_asset/guide/guide16a.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Tutorial",
+      "title": "RedBox TV Free Way for World Cup",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVCLCJogRgOnYZQJ56K6UXrOlSyB5yoY3ng&usqp=CAU",
+      "description": "This is really cool, as you can view the main page of the app as soon as you launch it",
+      "link": "file:///android_asset/guide/guide17a.html"
+    }
+  ]
+}
