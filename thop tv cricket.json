@@ -1,0 +1,185 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "ThopTV APK is the Best Live streaming ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyI_tex7R8Q2Q1bKLk1GoErCTVGbuZBv4ybA&usqp=CAU",
+      "description": "This app content is based on international, and local Indian Channels ",
+      "link": "file:///android_asset/guide/guide1a.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "ThopTV - Latest Version For Android 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkPxj1j-25aojAqRLEspzFEBIRCI80sj7NA&usqp=CAU",
+      "description": "One of the most significant advantages of ThopTV is its extensive collection of channels",
+      "link": "file:///android_asset/guide/guide2a.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Tips Thop Tv Watch live tv channels for free",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyI_tex7R8Q2Q1bKLk1GoErCTVGbuZBv4ybA&usqp=CAU",
+      "description": "more than 1000 different channels for viewing by users, and most importantly, live from 15 different countries of the world ",
+      "link": "file:///android_asset/guide/guide3a.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Thop Tv Guide - Live all Tv channel",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJvvGD_nqVuLOPcf-UBq9P9hLz7v1FG2Sw&usqp=CAU",
+      "description": "Thop Tv Guide - Live all Tv channel , movies Tips Story",
+      "link": "file:///android_asset/guide/guide4a.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Thop Tv Guide - Tips of Live & Free TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSoMwOqqc9K7V-AF4daS6gq_PW4maNYrWUA&usqp=CAU",
+      "description": "Watch live cricket and serials on Thop TV tips",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "About Thop TV- ThopTV Live Tips",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhDPhg2KZh17zvpnPzvO4e14ikvFWYYEFkQ&usqp=CAU",
+      "description": "This is an unofficial guide for Thop Live TV - Free HD Live TV guide",
+      "link": "file:///android_asset/guide/guide6a.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Thop TV Live Cricket TV Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ6ybqTxWXtWZiQWHzTHz-KfTk8aitZe3S4A&usqp=CAU",
+      "description": "Thop TV cricket live application isn't simply used to observe",
+      "link": "file:///android_asset/guide/guide7a.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Thoptv Guide – Live Cricket, IPL Matches on ThopTv App",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTGjMKxC32uOK_CD-8K6i0tGx1qb-ZHYxlQ&usqp=CAU",
+      "description": "Watching IPL matches on Thoptv is a great option for cricket Lovers",
+      "link": "file:///android_asset/guide/guide8a.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Thop Tv Live IPL Match Streaming in 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrhk5QA5ElV7jmMQI_Kx93520b8J9U2UiaA&usqp=CAU",
+      "description": "Thop Tv ensures that smooth IPL Live streaming reaches your screen",
+      "link": "file:///android_asset/guide/guide9a.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "ThopTV Live Cricket, Thop TV Movies Guide",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3hrZerq0hFGXfn8Ir7zNTCmhmeV5bWKX2w&usqp=CAU",
+      "description": "Live TV Guide app where you can find all the useful information about advice",
+      "link": "file:///android_asset/guide/guide10a.html" 
+    },
+	{
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Thop TV : Live Cricket TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRINej_VPiRS7GGv1-wG5fD5iZlakmqgJHx4g&usqp=CAU",
+      "description": "This app provides you live streaming all time where ever you are ",
+      "link": "file:///android_asset/guide/guide11a.html"
+    }
+  ]
+}
