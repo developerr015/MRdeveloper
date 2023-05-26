@@ -1,0 +1,217 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Globoplay: Netflix’s new rival already has a date to arrive in Portugal ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8WSXo2W_y-CM8G7mz59SYzOWAXmm9FgVJQ&usqp=CAU",
+      "description": "Prepare for the arrival of another platform of streaming to Portugal. Globoplay ",
+      "link": "file:///android_asset/guide/guide1a.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "is Globoplay not working / having issues for you?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFAtHnGpP8Weawi8qBMcc5EwfASqAL43AAZg&usqp=CAU",
+      "description": "Globoplay app may not be working for you due to some issues that your device may have or your internet connection problem",
+      "link": "file:///android_asset/guide/guide2a.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "3 Best Browsers to Watch Globoplay’s TV Shows",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTTrr7R0vYZJRwXwtUuS2_yhOM1wYeya3PA&usqp=CAU",
+      "description": "If you want to watch Globoplay abroad, use a browser with built-in VPN ",
+      "link": "file:///android_asset/guide/guide3a.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "How to Download Videos from Globoplay on PC, Android & iOS phones?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxulcBNVTxEoWQtuaj6iGW3Ki6yp6e6q2LQ&usqp=CAU",
+      "description": "If you won't have internet connection for a while, you may still keep yourself entertained by downloading different TV shows and movies",
+      "link": "file:///android_asset/guide/guide4a.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "how to watch the soap opera chapter online by Globoplay",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyl0NQkMuDboF9bftZpTgbsoCfl1J6x5HZkg&usqp=CAU",
+      "description": "Remake of the soap opera that was successful in 1990",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Contact of Globoplay customer service",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOplWxXIEQ73UuF8layHEekOSwXYltyWCrw&usqp=CAU",
+      "description": "Find below the customer service details of Globoplay. Besides contact details, the page also offers a brief overview of the company",
+      "link": "file:///android_asset/guide/guide6a.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Globo and TelevisaUnivision expand their distribution alliance",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXTObLV33bxEqqAC43ZVH4xWoEKeM-TRNlw&usqp=CAU",
+      "description": "Globo and TelevisaUnivision announced",
+      "link": "file:///android_asset/guide/guide7a.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Globoplay Account Hacked? How To Recover Before It’s too Late",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmx9b4cbOSkJ3haTRPAa2V6OPFXgBBSxeXCQ&usqp=CAU",
+      "description": "Has your Globoplay account recently been hacked? You’re not alone",
+      "link": "file:///android_asset/guide/guide8a.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Globoplay is now available on the Roku platform",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHkWTmFCBR5PUqCy1qSqRt8ms_hlhgHi40gA&usqp=CAU",
+      "description": "We have great news to share for Brazilians living in the U.S. and anyone with a passion for enjoying great content in Portuguese. Globoplay is now available on the Roku platform!",
+      "link": "file:///android_asset/guide/guide9a.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Globoplay Video Download Tips",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxyPBq46I1gbAxbvSrD8UfEqDpu-2s2cYIVg&usqp=CAU",
+      "description": "If you are looking for a way to watch live TV channels on your Android device without paying for a cable or satellite subscription",
+      "link": "file:///android_asset/guide/guide10a.html" 
+    },
+	{
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "How to divide the Globoplay account and create a profile for each dependent",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5nzTk438ABDBwE4U1EDipv_RLK0Dmj2Ji_g&usqp=CAU",
+      "description": "Globoplay can be shared with up to 5 people, depending on the contracted plan; Configuration is done on the Globo Account page ",
+      "link": "file:///android_asset/guide/guide11a.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "How to watch GloboPlay outside Brazil",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mB0DHq-q0RPBUtJBq93ICdaiZsjtD1grhw&usqp=CAU",
+      "description": "Everybody loves travelling, but nobody enjoys the part where you miss home comforts such as your favourite TV shows from back home",
+      "link": "file:///android_asset/guide/guide12a.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "How to watch Globoplay outside Brazil/US: The EASY method!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIRx0dnoXWd2moUZ98OotWbXGhQsum5pmdw&usqp=CAU",
+      "description": "To watch Globoplay outside Brazil and the US, the process is simple",
+      "link": "file:///android_asset/guide/guide13a.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "KeepStreams for Globoplay",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcTLRq4fXWi51S3uBhOo0R59oGgaee5wU4w&usqp=CAU",
+      "description": "If you're looking to download Globoplay entertainment videos in HD",
+      "link": "file:///android_asset/guide/guide14a.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "How to change Globoplay password",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjN4IwVL1GKa0CJFwiHEPKRNu44JaMwX0bUg&usqp=CAU",
+      "description": "Changing the password for Globoplay, a serial and movie streaming service, is possible via the settings",
+      "link": "file:///android_asset/guide/guide15a.html"
+    }
+  ]
+}
