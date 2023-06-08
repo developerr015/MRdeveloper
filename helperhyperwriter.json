@@ -1,0 +1,186 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Writing with AI (Artificial Intelligence) using HyperWrite ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpplxqau6r3GANAtanquw9f4u7lGxz-EfEsw&usqp=CAU",
+      "description": "HyperWrite uses the world’s most advanced language technology to help you write better and faster than ever before ",
+      "link": "file:///android_asset/guide/guide1a.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Hyperwrite Review: Is it worth trying? (2023)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYg4Bz7JaOdigEZh5YQG3-y2P_-ChkCDN8w&usqp=CAU",
+      "description": "We're reader-supported. When you buy through links on our site, we may earn an affiliate commission at no additional cost to you",
+      "link": "file:///android_asset/guide/guide2a.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "AI Wrote a 650-Word 
+[HyperWrite Review]",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfw-pNWw9mo0oYGXtkyEOcilS9YUq6MBSRhQ&usqp=CAU",
+      "description": "Wondering how to get started with AI? Take our on-demand Piloting AI for Marketers Series ",
+      "link": "file:///android_asset/guide/guide3a.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "The 8 Best AI Writing Tools For Essays, Blogs & Content In 2023",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyPjB2DovnyWfWOMPQBj4U8TT-KjZBKNaNw&usqp=CAU",
+      "description": "If you have recently spent time on popular social media channels such as Twitter or LinkedIn, chances are you have read all about the amazing benefits of artificial intelligence for writing",
+      "link": "file:///android_asset/guide/guide4a.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "AI Writing Assistants: A Cure for Writer's Block or Modern-Day Clippy?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYg4Bz7JaOdigEZh5YQG3-y2P_-ChkCDN8w&usqp=CAU",
+      "description": "Is artificial intelligence good enough to assist professional writers with their daily word output?",
+      "link": "file:///android_asset/guide/guide5a.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Your Personal Writing Assistant",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSot6J2YdimO9NTP2EkMdyzpsSY44kO2OCvGg&usqp=CAU",
+      "description": "HyperWrite provides suggestions and sentence completions to improve your writing, wherever you write. Get Started It's Free",
+      "link": "file:///android_asset/guide/guide6a.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "HyperWrite: the world’s most advanced AI which helps you write",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FA8Bp0qjSwH6WHy4K6hxTJVXb1suH-V7rA&usqp=CAU",
+      "description": "Have you ever wondered how writing can be fun? How can the task of creating marketing copy can be made easy for both copywriters and businesses? ",
+      "link": "file:///android_asset/guide/guide7a.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "How to write better: a quick-start guide for anyone and everyone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9l2facAciZI3nDIiXEH_GF7zQzrFK7t7eA&usqp=CAU",
+      "description": "Just about everyone knows how to write — but writing well is something different",
+      "link": "file:///android_asset/guide/guide8a.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "HyperWrite: Use GPT-3 to Help You Create Articles More Efficiently",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMdeMMQ4SHfI_qOtoEYHOCuWG4bucDgjiaWA&usqp=CAU",
+      "description": "HyperWrite is an online AI writing assistant created by OthersideAI in 2022",
+      "link": "file:///android_asset/guide/guide9a.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "What are AI Content Writing Tools? (And Should You Use One?)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYKYzTFd0kgOgViiL_xxmRnLDM-GSW-qPFg&usqp=CAU",
+      "description": "Going through the title, what questions come to mind? Can AI really help me write content? And do I actually need AI to help me create it?",
+      "link": "file:///android_asset/guide/guide10a.html" 
+    },
+	{
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "AI Content Writer: Is It Worth It? Plus 7 Best Tools This Year",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsbd60K5logGSyc__eQY48nzTHsKz1C_aIQ&usqp=CAU",
+      "description": "ontent is free. When you purchase through referral links on our site, we earn a commission. Learn More",
+      "link": "file:///android_asset/guide/guide11a.html"
+    }
+  ]
+}
