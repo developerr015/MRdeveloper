@@ -100,6 +100,14 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEmZs5nLSORrhLsMZQIklGRiYMa5GKnwRQQ&usqp=CAU",
       "description": "Genmo is a platform for creating and sharing interactive",
       "link": "https://mrdvlpr.blogspot.com/p/go-beyond-images.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "What is the Genmo AI video generator?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7wH2G1tFvhWJl9H7kM4JS-N9akQwxsdWlQ&usqp=CAU",
+      "description": "Genmo AI is a new platform that allows users to create videos from text or updated images",
+      "link": "https://mrdvlpr.blogspot.com/p/what-is-genmo-ai-video-generator.html" 
     }
   ]
 }
