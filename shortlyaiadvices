@@ -88,7 +88,7 @@
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Reskin",
       "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     }
   ],
@@ -96,26 +96,26 @@
     {
       "id": 1,
       "name_category": "Playstore",
-      "title": "Make writer's block a thing of the past ",
+      "title": "Sortly ai,  Make writer's block a thing of the past",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkReWS_ho9uiXeNfBKK64KkWRcO096rQmZw&usqp=CAU",
-      "description": "Get writing superpowers with an AI writing partner",
+      "description": "Make writer's block a thing of the past",
       "link": "https://mrdvlpr.blogspot.com/p/sortly-ai-make-writers-block-thing-of.html"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": " The interface",
+      "title": "Basics",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5Fi8BdHZ-46G9kHRODFzOfXHRgHhj0uTPw&usqp=CAU",
       "description": "We've designed ShortlyAI to feel like a blank canvas",
       "link": "https://mrdvlpr.blogspot.com/p/basics.html" 
     },
-	{
+    {
       "id": 3,
       "name_category": "Tutorial",
       "title": "How it works",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ667xQAtQLjlIvoyIe9Nl3PKkRMdQvOy4Dw&usqp=CAU",
       "description": "When you click the "Write for me" button, your AI reads all of the text before the cursor",
-      "link": "https://mrdvlpr.blogspot.com/p/how-it-works.html"
+      "link": "https://mrdvlpr.blogspot.com/p/how-it-works.html" 
     }
   ]
 }
