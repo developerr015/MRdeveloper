@@ -112,9 +112,9 @@
     {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "Master the Art of Prompting with Kaiber",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9dVEe9CbGHhNM8QqiGiPZsK0PTuWX_m8fHg&usqp=CAU",
-      "description": "We have talked about the famous educational AI tool, Caktus AI",
+      "title": "How to use Caktus AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKkFDLjoVvzXY54qoc7HLPHMMNcnegVT-Rg&usqp=CAU",
+      "description": "Caktus AI is a ChatGPT alternative designed to help students learn and understand complex concepts",
       "link": "https://mrdvlpr.blogspot.com/p/how-to-use-caktus-ai.html" 
     }
   ]
