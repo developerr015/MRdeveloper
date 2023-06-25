@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Helper Hyperwriter AI",
+      "image": "https://play-lh.googleusercontent.com/X-N9O76rolOcd92ht82wQEDRpfcJO6z4qThajS2NlaQhee3qQtSXJU_h0rhHSxfl2fg=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.helperhyperwriter"
+    },
+    {
+      "id": 2,
+      "title": "Genmo Ai Workflow",
+      "image": "https://play-lh.googleusercontent.com/ABBPZ4WEpsr3fZmHHb6RuL8bgh78kyMIjkEERf15-2HfNkPj9b5ukVpGGcMPXnn6y7s=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.genmoaiworkflow"
+    },
+    {
+      "id": 3,
+      "title": "God Mode Ai Hints",
+      "image": "https://play-lh.googleusercontent.com/pygVHdChSChaSzbU1Df5HGt450hR2wiK0fBYDivI_Ks0eTo5nxdOe1qC_9a96h8SSGQI=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.godmodeaihints"
+    },
+    {
+      "id": 4,
+      "title": "Resemble Ai Guide",
+      "image": "https://play-lh.googleusercontent.com/zXIJFHnyO3hEuYZRlllHqFXXALX13NaPmtZNYGzjOAq16dsgSkNzOnc2nsTV601Rs2A=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.resemblevoiceaiguide"
+    },
+    {
+      "id": 6,
+      "title": "DALLE Ai Helper",
+      "image": "https://play-lh.googleusercontent.com/i7W4egpsbBkL9bCzNjDvSPMHzApqLRFaXpwDQ8x2BLGfEnZt_JifX1Ow_zu8oVa2qg=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.dalleaihelper"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "How to Make Synthesia Videos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWGvxjci6XM8KvRnhnUW5zZrucQlJ6-oxRg&usqp=CAU",
+      "description": "here's a step-by-step breakdown of how to make Synthesia videos",
+      "link": "https://mrdvlpr.blogspot.com/p/how-to-make-synthesia-videos.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "How to Make an Instructional Video With Screen Recording",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7uyxXHJ4gHtXqqXyeddD1SSZPBJh26z1Bw&usqp=CAU",
+      "description": "There's a whole load of evidence pointing to the fact that people not only find videos effective for education",
+      "link": "https://mrdvlpr.blogspot.com/p/how-to-make-instructional-video-with_24.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Synthesia Stock Voices",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXuqlRRtl9RKoccZsieUFEdaIQI7pTqw3jHg&usqp=CAU",
+      "description": " We are excited to announce a new range of Synthesia Stock Voices!",
+      "link": "https://mrdvlpr.blogspot.com/p/synthesia-stock-voices.html" 
+    }
+  ]
+}
