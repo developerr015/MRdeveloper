@@ -124,6 +124,102 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zPzgvifSyPS8Ud4BhZT53FfjbMcnISbVYg&usqp=CAU",
       "description": " DragGAN, its operational mechanisms, and its potential impact on the image editing landscape",
       "link": "https://mrdvlpr.blogspot.com/p/a-deep-dive-into-draggan-ai-powered.html" 
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Holy Cow! Introducing DragGAN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuGM1LEsgW1-pkjRm7ePiFFgvCLA13UhcCA&usqp=CAU",
+      "description": "Make your Generative AI images come to life",
+      "link": "https://mrdvlpr.blogspot.com/p/holy-cow-introducing-draggan.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "A New Way to Create Stunning 3D Images",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRsp7B1oYrb09DOczNoXX2zskZlSdcMLG6tA&usqp=CAU",
+      "description": "Download DragGAN AI: A Revolutionary Interactive Photo Editing Tool",
+      "link": "https://mrdvlpr.blogspot.com/p/a-new-way-to-create-stunning-3d-images.html" 
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "DragGAN: Interactive Point-Based Manipulation for GANs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSB9D7I7tqhZtOqrAEleKcDxbphX0bw_cTw&usqp=CAU",
+      "description": " DragGAN, its operational mechanisms, and its potential impact on the image editing landscape",
+      "link": "https://mrdvlpr.blogspot.com/p/interactive-point-based-manipulation.html" 
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "DragGAN: Google Researchers Unveil AI Technique for Magical Image Editing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWJ1s5boTPYod2Apf1OUV1N_EX4JksYUXlg&usqp=CAU",
+      "description": "DragGAN is a revolutionary approach to controlling generative adversarial networks",
+      "link": "https://mrdvlpr.blogspot.com/p/draggan-google-researchers-unveil-ai.html" 
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "DraGAN AI: How to Install and Use AI Editing Tool on Ubuntu",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3TELJr7NxdeZytr0Yv9eCl6aI505RNRCwg&usqp=CAU",
+      "description": "In the world of digital imagery and photo editing",
+      "link": "https://mrdvlpr.blogspot.com/p/dragan-ai-how-to-install-and-use-ai.html" 
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Prominent use cases for DragGAN AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr7BIU73vhISYAO2oyZ6FW_hRcjfBw9EGZA&usqp=CAU",
+      "description": " The DragGAN AI editing tool has the potential",
+      "link": "https://mrdvlpr.blogspot.com/p/prominent-use-cases-for-draggan-ai.html" 
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "DragGAN: AI Editing Tool That Transforms Photoshop with Simple Drag Controls",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fe_bWwv7oE9Tfp7N43QIwDyKnNdokmAQEQ&usqp=CAU",
+      "description": "like those used with Photoshop",
+      "link": "https://mrdvlpr.blogspot.com/p/draggan-ai-editing-tool-that-transforms.html" 
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "DragGAN: An AI-Based Image Editing Tool",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrfFt_lqZosm3EfIFvdPix9Qq2vcSrNPfR0Q&usqp=CAU",
+      "description": "DragGAN or Drag your GAN is a newly released open-source AI tool",
+      "link": "https://mrdvlpr.blogspot.com/p/draggan-ai-based-image-editing-tool.html" 
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "DraGan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCa2C5_X4V9LhSTM1SN0Go1qIHAOlpP04O-w&usqp=CAU",
+      "description": " Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+      "link": "https://mrdvlpr.blogspot.com/p/how-to-use-draggan-ai-photo-editor-best.html" 
+    },
+    {
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "Exploring Google's DragGAN: Revolutionizing Image Transformation",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiYcn5UBmoVceQe3fKG46De2-Lwi5xqUNkkA&usqp=CAU",
+      "description": " DragGAN, its operational mechanisms, and its potential impact on the image editing landscape",
+      "link": "https://mrdvlpr.blogspot.com/p/exploring-googles-draggan.html" 
+    },
+    {
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "DragGAN AI photo editor is coming for the Photoshop’s throne",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAaCaoFQreP4hqQz1InrmkbOApdPq9NlCTA&usqp=CAU",
+      "description": " the upcoming AI-powered DragGAN will be a game-changer",
+      "link": "https://mrdvlpr.blogspot.com/p/draggan-ai-photo-editor-is-coming-for.html" 
+    },
+    {
+      "id": 16,
+      "name_category": "Tutorial",
+      "title": "How to use DragGAN AI photo editor?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiX-4Sz1mUvJxCo89EtilDpyz4RexcK1KnhQ&usqp=CAU",
+      "description": " simply upload an image to it and then start dragging",
+      "link": "https://mrdvlpr.blogspot.com/p/how-to-use-draggan-ai-photo-editor.html" 
     }
   ]
 }
