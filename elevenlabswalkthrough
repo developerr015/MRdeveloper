@@ -124,6 +124,78 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNogL6sUpDxAxuAfZi_J0ZJNiDIEW_vk8BA&usqp=CAU",
       "description": " ElevenLabs is also introducing AI Speech Classifier",
       "link": "https://mrdvlpr.blogspot.com/p/eleven-labs-raises.html" 
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Why is Murf the Best Alternative to ElevenLabs?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4Ln1qq9F1RCh7TuOE6REbjDLvy7ksGWIsg&usqp=CAU",
+      "description": "While ElevenLabs is a great TTS tool known for its quality AI voices",
+      "link": "https://mrdvlpr.blogspot.com/p/why-is-murf-best-alternative-to.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": " AI Voices in YouTube Videos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFn7RyXYxDHW7DbaRmeuUje_oQVigpbqzShQ&usqp=CAU",
+      "description": "Text-to-speech has been around for a while",
+      "link": "https://mrdvlpr.blogspot.com/p/ai-voices-in-youtube-videos.html" 
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Examples of Popular YouTube Channels",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNogL6sUpDxAxuAfZi_J0ZJNiDIEW_vk8BA&usqp=CAU",
+      "description": "Feeling skeptical about the effectiveness of AI voices for YouTube?",
+      "link": "https://mrdvlpr.blogspot.com/p/examples-of-popular-youtube-channels.html" 
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "YouTube’s Monetization Policies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4Ln1qq9F1RCh7TuOE6REbjDLvy7ksGWIsg&usqp=CAU",
+      "description": "channels need to have 1,000 subscribers and 4,000 hours of watch time",
+      "link": "https://mrdvlpr.blogspot.com/p/youtubes-monetization-policies.html" 
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Benefits of Using AI Voices",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFn7RyXYxDHW7DbaRmeuUje_oQVigpbqzShQ&usqp=CAU",
+      "description": "AI tools are poised to revolutionize video creation",
+      "link": "https://mrdvlpr.blogspot.com/p/benefits-of-using-ai-voices.html" 
+    },
+    {
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": " Can a voice be protected by copyright or any form of IP?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNogL6sUpDxAxuAfZi_J0ZJNiDIEW_vk8BA&usqp=CAU",
+      "description": "One of the latest innovations in AI technology is deepfake vocal synthesisers",
+      "link": "https://mrdvlpr.blogspot.com/p/can-voice-be-protected-by-copyright-or.html" 
+    },
+    {
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": " Advantages and Disadvantages of ElevenLabs.io",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4Ln1qq9F1RCh7TuOE6REbjDLvy7ksGWIsg&usqp=CAU",
+      "description": "ElevenLabs received criticism after people",
+      "link": "https://mrdvlpr.blogspot.com/p/advantages-and-disadvantages-of.html" 
+    },
+    {
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": " What's dubbing, voice conversion and speech synthesis?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFn7RyXYxDHW7DbaRmeuUje_oQVigpbqzShQ&usqp=CAU",
+      "description": "Dubbing is a process for providing a film with a different language",
+      "link": "https://mrdvlpr.blogspot.com/p/whats-dubbing-voice-conversion-and.html" 
+    },
+    {
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": " Main Features",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyNogL6sUpDxAxuAfZi_J0ZJNiDIEW_vk8BA&usqp=CAU",
+      "description": "ElevenLabs provides a browser-based, AI-assisted text-to-speech",
+      "link": "https://mrdvlpr.blogspot.com/p/main-features.html" 
     }
   ]
 }
