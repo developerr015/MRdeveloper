@@ -1,0 +1,239 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Hot 51 : Live video call guide",
+      "image": "https://play-lh.googleusercontent.com/0RNt9v67CIES-rqVgzZGIt-Ew1JcsjqIzSdX_BFun1gD0AlUY75zkrZIjd-kCBDH8bQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.hotlimasatu&hl=en-ID"
+    },
+    {
+      "id": 2,
+      "title": "Live Video Bling2",
+      "image": "https://play-lh.googleusercontent.com/uoUCeH3x1B_61QwpVk7Sqb9Bd-FlOevyIb91N43_rWPDnF5XW1VDXsGmFbJapcZ_WD8=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.blingblingguide&hl=en-ID"
+    },
+    {
+      "id": 3,
+      "title": "Namelix Ai App Workflow",
+      "image": "https://play-lh.googleusercontent.com/740twM8E5JS9asShC45kR54z_XP9i6CsRZV44pcMwsNRMF_C0hqgOgjbuEmD2zbPPyM=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guidenamelixai&hl=en-ID"
+    },
+    {
+      "id": 4,
+      "title": "Flair Ai App Workflow",
+      "image": "https://play-lh.googleusercontent.com/kokFfVcVu9L7gC-Owky_QT8MLPZIobA_-_EDDrB3OzQ6nwl-N_nQ3bIXBeFuZkmK5Q=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.PatbelasStudio.guideflairai&hl=id-ID"
+    },
+    {
+      "id": 5,
+      "title": "Bling2 App Guide",
+      "image": "https://play-lh.googleusercontent.com/SWoqt3GjAtvAT4qzW6AMdMZbCiyrMafVqqlOdDVJGgRAkVEPiBN9qntz6y9huOfGoA=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.MRdeveloper.blingblingguide&hl=en-ID"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Best Live Hot Apk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Best Anti-Banned Free Hot Live Applications for 2023",
+      "link": "https://patbelas39.blogspot.com/p/best-live-hot.html"
+    },
+    {
+      "id": 2,
+      "name_category": "inside link",
+      "title": "Review About Hot 51 Live Mod Apk Free",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Live Mod Apk is an application that has been modified by a third party by...",
+      "link": "https://patbelas39.blogspot.com/p/review-about-hot-51-live-mod-apk-free.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "inside link",
+      "title": "How to Install Hot 51 Live Mod Anti Banned Apk?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "To be able to use the Hot 51 Live Bar Bar Apk application, you need to make a few changes to...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-install-hot-51-live-mod-anti.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "inside link",
+      "title": "What is Sugar Live Apk?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Please note, the Sugar Live Apk application is a live streaming application platform like TikTk",
+      "link": "https://patbelas39.blogspot.com/p/what-is-sugar-live-apk.html" 
+    },
+    {
+      "id": 5,
+      "name_category": "inside link",
+      "title": "Sugar Live Apk Social Media Live Streaming",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Today's social media is mostly filled with video content...",
+      "link": "https://patbelas39.blogspot.com/p/sugar-live-apk-sosial-media-live.html" 
+    },
+    {
+      "id": 6,
+      "name_category": "inside link",
+      "title": "MMLive",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "MMLive APK is an application for you to join the online community and...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-install-hot-51-live-mod-anti.html" 
+    },
+    {
+      "id": 7,
+      "name_category": "inside link",
+      "title": "How to use MMLive APK For Android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "To use MMLive APK Room, users need to...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-use-mmlive-apk-for-android.html" 
+    },
+    {
+      "id": 8,
+      "name_category": "inside link",
+      "title": "Advantage and Defect of MMLive APK Latest version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Simple interface, easy to...",
+      "link": "https://patbelas39.blogspot.com/p/advantage-and-defect-of-mmlive-apk.html" 
+    },
+    {
+      "id": 9,
+      "name_category": "inside link",
+      "title": "UF Live",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "UF Live APK is the newest and free live streaming application...",
+      "link": "https://patbelas39.blogspot.com/p/uf-live.html" 
+    },
+    {
+      "id": 10,
+      "name_category": "inside link",
+      "title": "How to use UF Live APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Download and install the UF Live APK app on your mobile device...",
+      "link": "https://patbelas39.blogspot.com/p/how-to-use-uf-live-apk.html" 
+    },
+    {
+      "id": 11,
+      "name_category": "inside link",
+      "title": "Advantage and Defect of UF Live APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Provides many useful features for users, including watching live football...",
+      "link": "https://patbelas39.blogspot.com/p/advantage-and-defect-of-uf-live-apk.html" 
+    },
+    {
+      "id": 12,
+      "name_category": "inside link",
+      "title": "Hamster Live",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Hamster Live APK is a powerful and popular live video streaming application that...",
+      "link": "https://patbelas39.blogspot.com/p/hamster-live.html" 
+    },
+    {
+      "id": 13,
+      "name_category": "inside link",
+      "title": "Instructions, how to use Hamster Live APK iOS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Download and install the app: First...",
+      "link": "https://patbelas39.blogspot.com/p/instructions-how-to-use-hamster-live.html" 
+    },
+    {
+      "id": 14,
+      "name_category": "inside link",
+      "title": "Tips and advice when using Hamster Live APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Create engaging content: To engage viewers and build a loyal...",
+      "link": "https://patbelas39.blogspot.com/p/tips-and-advice-when-using-hamster-live.html" 
+    },
+    {
+      "id": 15,
+      "name_category": "inside link",
+      "title": "Pros and cons Hamster Live APK Latest Version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Easy Video Streaming...",
+      "link": "https://patbelas39.blogspot.com/p/pros-and-cons-hamster-live-apk-latest.html" 
+    },
+    {
+      "id": 16,
+      "name_category": "inside link",
+      "title": "HotLive",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "HotLive APK is a cool random video chat app that gives...",
+      "link": "https://patbelas39.blogspot.com/p/hotlive.html" 
+    },
+    {
+      "id": 17,
+      "name_category": "inside link",
+      "title": "Features of HotLive APK For Android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Here are the details of all the key features of the HotLive app APK...",
+      "link": "https://patbelas39.blogspot.com/p/features-of-hotlive-apk-for-android.html" 
+    },
+    {
+      "id": 18,
+      "name_category": "inside link",
+      "title": "Instructions, how to use HotLive Mobile App APK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Download and install the app: First, you need to...",
+      "link": "https://patbelas39.blogspot.com/p/instructions-how-to-use-hotlive-mobile.html" 
+    },
+    {
+      "id": 19,
+      "name_category": "inside link",
+      "title": "Tips and advice when using HotLive APK iOS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Privacy of Personal Information: Always be...",
+      "link": "https://patbelas39.blogspot.com/p/tips-and-advice-when-using-hotlive-apk.html" 
+    },
+    {
+      "id": 20,
+      "name_category": "inside link",
+      "title": "Pros and cons HotLive APK Latest Version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgDd5TphlZ9vJFlzjPl7eA-a81sPPt921VQ&usqp=CAU",
+      "description": "Meet and connect with new people: HotLive allows you to...",
+      "link": "https://patbelas39.blogspot.com/p/pros-and-cons-hotlive-apk-latest-version.html" 
+    }
+  ]
+}
