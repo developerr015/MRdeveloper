@@ -1,0 +1,71 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "2 Minute Me Adhar Loan Guide",
+      "image": "https://play-lh.googleusercontent.com/Ay8vSPp1UBuyB6nU0S4hf1O6qAYJjsMS2BEnnNf-Nbnv98Ji0wusqty_fI7SGZocsQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.WAHDINIDEV.minute5adharloanguide"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " Overview of Higgs Domino RP",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRus-V0LWrpNHpG4J6XX63x_GHckbWUX2R7Ig&usqp=CAU",
+      "description": "Higgs Domino RP is a domino game that has been modified in such a way by embedding lots of premium features in it",
+      "link": "https://wahdinidev666.blogspot.com/p/overview-of-higgs-domino-rp.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Latest Features on Higgs Domino RP Apk",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxIfzlgbDmx9LDDcz8XXxsCni06MbJeb2CA&usqp=CAU",
+      "description": "For those of you who are curious about the superior features in the Higgs Domino Mod apk, please see the full details below",
+      "link": "https://wahdinidev666.blogspot.com/p/latest-features-on-higgs-domino-rp-apk.html" 
+    }
+  ]
+}
