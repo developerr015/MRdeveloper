@@ -1,0 +1,87 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "UnaCash Tips - Quick Cash Loan",
+      "image": "https://play-lh.googleusercontent.com/lNeM6z1Cy7aBLGlhxt4ZZRMw0YpIj5KG4yrViYrMCPEs48W6e_I1g5nMru_1zn0GqjVD=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.WAHDINIDEV.unacashtips"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Fungsi Aplikasi Monitoring Karhutla Lancang Kuning ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1E2gzZs3gU78gNYA1Ma_apND0XQ36xVl7Zg&usqp=CAU",
+      "description": "Dasbaord Lancang Kuning ini terang Agung, adalah sebuah suatu sistem penanganan kebakaran hutan secara terukur, terstruktur dan efisien",
+      "link": "https://wahdinidev.blogspot.com/p/fungsi-lancang-kuning.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": " Deteksi Titik Api, Polda Riau Kenalkan Aplikasi Lancang Kuning",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHArNRJfaZnNc-IeBxv2CxdaUKTQ6z8wYkvQ&usqp=CAU",
+      "description": "Dalam rangka pencegahan kebakaran hutan dan lahan (Karhutla) Kepolisan Daerah (Polda) Riau tengah membuat terobosan berbasis teknologi informasi bernama Teknologi Dashboard Lancang Kuning",
+      "link": "https://wahdinidev.blogspot.com/p/deteksi-titik-api.html" 
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Dashboard Lancang Kuning",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHArNRJfaZnNc-IeBxv2CxdaUKTQ6z8wYkvQ&usqp=CAU",
+      "description": "Teknologi ini memanfaatkan empat satelit, Satelit Tera, Nora, Lapan, dan Aqua. Dari empat satelit itu, kita bisa mengetahui titik api berada",
+      "link": "https://wahdinidev.blogspot.com/p/dashboard-lancang-kuning.html" 
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Harapan Wujudkan Langit Riau Bebas Karhutla",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHArNRJfaZnNc-IeBxv2CxdaUKTQ6z8wYkvQ&usqp=CAU",
+      "description": "Bak kata peribahasa, sedia payung sebelum hujan. Itulah adagium yang melekat pada dashboard Lancang Kuning",
+      "link": "https://wahdinidev.blogspot.com/p/dashboard-lancang-kuning_23.html" 
+    }
+  ]
+}
