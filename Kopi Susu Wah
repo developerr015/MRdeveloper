@@ -1,0 +1,71 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "UnaCash Tips - Quick Cash Loan",
+      "image": "https://play-lh.googleusercontent.com/lNeM6z1Cy7aBLGlhxt4ZZRMw0YpIj5KG4yrViYrMCPEs48W6e_I1g5nMru_1zn0GqjVD=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.WAHDINIDEV.unacashtips"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": " Apa itu Kopi Susu Pinjol?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJkj4y-CCiuxMPCAlqjED2NnRGt7Q77PLDQw&usqp=CAU",
+      "description": "Aplikasi ini menyediakan produk pinjaman dengan limit mulai dari Rp800 ribu hingga Rp20 juta dengan jangka waktu cicilan 91 hingga 365 hari",
+      "link": "https://wahdinidev.blogspot.com/p/apa-itu-kopi-susu-pinjol.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "kopi susu pinjol",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoB0eXWNYAs7SzYHJ13W8ld4Ay8l4v2WYsg&usqp=CAU",
+      "description": "Menyelami Kenapa Kopi Susu Pinjol Bikin Penasaran..,",
+      "link": "https://wahdinidev.blogspot.com/p/kopi-susu-pinjol.html" 
+    }
+  ]
+}
